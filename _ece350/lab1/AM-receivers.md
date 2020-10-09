@@ -12,7 +12,7 @@ next: /ece350/lab1/conclusion
 
 This part of the lab is a guide to building a practical AM receiver for receiving real AM signals. It all builds off of the last part (AM transmitters) and in it you will learn how to demodulate one of the modulated AM signals from the last part using only real signals.
 
-Then you will address addresses demodulating a provided data file which contains several seconds of recorded signals from the AM broadcast band. In this section you will learn how to:
+Then you will address demodulating a provided data file which contains several seconds of recorded signals from the AM broadcast band. In this section you will learn how to:
 
 1. filter out the undesired signals using other (different) carrier frequencies
 2. demodulate the desired AM signal using complex signals
